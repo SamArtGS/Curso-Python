@@ -69,5 +69,16 @@ Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De
 || 0 | 0 | 0 | 0 | 0
 || 0 | 0 | 0 | 0 | 0
 
+### Fechas límites de entrega 
 
+```
+Básico: 2020.08.25 11:59 pm
+Intermedio: 2020.08.28 11:59 pm
+Avanzado: 2020.08.31 11:59 pm
+```
 
+### Contacto
+
+**Samuel Arturo Garrido Sánchez:** samuelgarrido.proteco@gmail.com
+
+**Alicia Carbalindo García:**
