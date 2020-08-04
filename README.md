@@ -8,6 +8,8 @@
   <img src="img/pngwing.png" align = "right"  width="250" height="150"/>
 </p>
 
+Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De parte de todos los colaboradores les agradecemos su preferencia y esperamos que el curso le sea útil en su vida profesional. ❤️
+
 #### 🚀 Equipo:
 
 - Alicia Carballindo García **(Titular Básico e Intermedio)**
@@ -16,16 +18,6 @@
 - Ana Paola Lagunas **(Auxiliar)**
 - Alejandro Barreiro Valdez **(Auxiliar)**
 - Mario Álvares Salmerón **(Auxiliar)**
-
-
-
-> Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. 
-> 
-> De parte de todos los colaboradores les agradecemos su preferencia y esperamos que el curso le sea útil en su vida profesional. ❤️
-> 
-> Si en el transcurso del curso les surgen dudas, no lo piense 2 veces, contáctenos mediante los siguientes medios:
-
-
 
 
 ### 📅 Fechas y horarios
