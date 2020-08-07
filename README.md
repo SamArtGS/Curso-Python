@@ -2,7 +2,7 @@
   <img src="img/featured.png" align = "right"  width="50" height="50" />
 </p>
 
-# El lenguaje de programación Python 🐍
+# El lenguaje de programación Python
 
 <p>
   <img src="img/pngwing.png" align = "right"  width="250" height="150"/>
@@ -81,4 +81,12 @@ Avanzado: 2020.08.31 11:59 pm
 
 **Samuel Arturo Garrido Sánchez:** samuelgarrido.proteco@gmail.com
 
-**Alicia Carbalindo García:**
+**Alicia Carbalindo García:** alicepeachmelocoton2@gmail.com
+
+**Armando Rivera:**
+
+**Ana Paola Lagunas:** 
+
+**Alejandro Barreiro Valdez:** 
+
+**Mario Álvares Salmerón:** 
