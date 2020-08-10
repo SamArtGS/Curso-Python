@@ -23,9 +23,77 @@ Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De
 ### 💡 Temario
 #### Básico - Semana 1
 
-- Historia
-- Sincron
+- Introducción a Python.
+	- ¿Qué es Python?
+	- Filosofía de Python
+	- Principios y Zen de Python
+	- Instalación
+	- Sistemas Windows (32 y 64 bits)
+	- Sistemas UNIX (Linux y Mac)
+	- El intérprete de comandos
+	- Operaciones de la línea de comandos
+	- Intérprete interactivo
 
+- Tipos de objetos
+	- Enteros
+	- Reales
+	- Complejos
+	- Booleanos
+	- Operadores
+	- Cadenas
+	- Listas
+	- Tuplas
+	- Diccionarios
+
+- Control de Flujo
+	- If-Else-Elif
+	- While
+	- Continue
+	- Break
+	- Pass
+	- For
+	- For-each
+	- Listas por compresión
+
+- Programación funcional
+	- Estructura de una función
+	- Declaración y sintaxís
+	- Llamada a una función
+	- Retorno de valores
+	- Scope
+	- Recursividad
+	- Generadores
+	- Interadores
+	- yield
+	- Bult-ins
+	- Decoradores
+	- Lambdas
+
+- Programación Orientada a Objetos
+	- Clases
+	- Declaración
+	- Método __init__
+	- Parámetro self
+	- Estructura
+	- Atributos
+	- Atributos de instancia
+	- Atributos de clase
+	- Métodos
+	- Métodos de instancia
+	- Objetos
+	- Acceso a atributos y métodos
+	- Herencia simple
+	- Multiherencia
+	- Polimorfirsmo
+	- Protección de atributos y métodos
+
+- Manejo de archivos
+	- Módulos os y sys
+	- Objetos file
+	- Apertura
+	- Lectura
+	- Escritura
+	- Posicionamiento
 
 #### Intermedio - Semana 2
 
@@ -78,6 +146,6 @@ Le pedimos por favor cuidar su micrófono además de mandar de preferencia dudas
 
 Para poder controlar su computadora a distancia. Favor de instalarlo antes de los días de clase.
 
-### Contacto
+### Contacto 
 
 **Samuel Arturo Garrido Sánchez:** samuelgarrido.proteco@gmail.com
