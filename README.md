@@ -10,14 +10,7 @@
 
 Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De parte de todos los colaboradores les agradecemos su preferencia y esperamos que el curso le sea útil en su vida profesional. ❤️
 
-#### 🚀 Equipo:
 
-- Alicia Carballindo García **(Titular Básico e Intermedio)**
-- Samuel Arturo Garrido Sánchez **(Titular Avanzado)**
-- Armando Rivera **(Adjunto Avanzado)**
-- Ana Paola Lagunas **(Auxiliar)**
-- Alejandro Barreiro Valdez **(Auxiliar)**
-- Mario Álvares Salmerón **(Auxiliar)**
 
 
 ### 📅 Fechas y horarios
@@ -38,19 +31,19 @@ Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De
 
 #### Intermedio - Semana 2
 
-
+- Archivos
 
 #### Avanzado - Semana 3
 
-
+- Pandas
 
 ### ✅ Criterio de evaluación 
 
 |  Criterio   | Porcentaje |
 |:----------: |:----------:|
-|   Examen    |      |
-|  Proyecto   |      |
-|   Reporte   |      |
+|   Examen    |            |
+|  Proyecto   |            |
+|   Reporte   |            |
 
 
 ## 📚Calificaciones
@@ -90,13 +83,3 @@ Para poder controlar su computadora a distancia. Favor de instalarlo antes de lo
 ### Contacto
 
 **Samuel Arturo Garrido Sánchez:** samuelgarrido.proteco@gmail.com
-
-**Alicia Carbalindo García:** alicepeachmelocoton2@gmail.com
-
-**Armando Rivera:**
-
-**Ana Paola Lagunas:** 
-
-**Alejandro Barreiro Valdez:** 
-
-**Mario Álvares Salmerón:** 
