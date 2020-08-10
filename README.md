@@ -11,8 +11,6 @@
 Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De parte de todos los colaboradores les agradecemos su preferencia y esperamos que el curso le sea útil en su vida profesional. ❤️
 
 
-
-
 ### 📅 Fechas y horarios
 
 |    **Nivel**    |            Fecha y hora                |
