@@ -103,36 +103,11 @@ Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De
 
 - Pandas
 
-### ✅ Criterio de evaluación 
 
-|  Criterio   | Porcentaje |
-|:----------: |:----------:|
-|   Examen    |            |
-|  Proyecto   |            |
-|   Reporte   |            |
-
-
-## 📚Calificaciones
-
-
-|  Nombre   | Examen|  Proyecto  | Reporte |Calificación|Final|
-|:----------: |:----------:|:-------: |:-------:|:-------:|:-------:|
-|| 0 | 0 | 0 | 0 | 0
-|| 0 | 0 | 0 | 0 | 0
-|| 0 | 0 | 0 | 0 | 0
-|| 0 | 0 | 0 | 0 | 0
-|| 0 | 0 | 0 | 0 | 0
-|| 0 | 0 | 0 | 0 | 0
-|| 0 | 0 | 0 | 0 | 0
-|| 0 | 0 | 0 | 0 | 0
-|| 0 | 0 | 0 | 0 | 0
-|| 0 | 0 | 0 | 0 | 0
 
 ### Fechas límites de entrega 
 
 ```
-Básico: 2020.08.25 11:59 pm
-Intermedio: 2020.08.28 11:59 pm
 Avanzado: 2020.08.31 11:59 pm
 ```
 ### 🖥 Proceso de respuesta de preguntas durante la clase
