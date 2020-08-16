@@ -110,16 +110,6 @@ Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De
 ```
 Avanzado: 2020.08.31 11:59 pm
 ```
-### 🖥 Proceso de respuesta de preguntas durante la clase
-
-Le pedimos por favor cuidar su micrófono además de mandar de preferencia dudas como "Me quedé o no me corre el programa a preguntas escritas". Si aún con las sugerencias de los becarios no logra solucionar su problema, le recomendamos instalar 
-
-#### TEAM VIEWER 
-[Link de Descarga TeamViewer](https://www.teamviewer.com/en-us/download/)
-
-![](img/DeviceID.png)
-
-Para poder controlar su computadora a distancia. Favor de instalarlo antes de los días de clase.
 
 ### Contacto 
 
