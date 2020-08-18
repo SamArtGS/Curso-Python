@@ -93,23 +93,91 @@ Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De
 	- Apertura
 	- Lectura
 	- Escritura
+	- Serialización
+	- XML, JSON, CSV
 	- Posicionamiento
 
 #### Intermedio - Semana 2
 
-- Archivos
+- Manejo de excepciones
+	- Try-except
+	- Raise
+	- Else
+	- Finally
+	- Jerarquía
+
+- Expresionres regulares
+	- Modulo re
+	- Metacaracteres
+	- Patrones
+	- REGEX101
+
+- Manejo de bases de datos
+	- DBMS - RDBMS 
+	- CRUD
+	- Diseño conceptual
+	- Diseño lógico
+	- CRUD
+	- Sqlite3
+	- MySQL
+	- Oracle
+
+- Programación concurrente
+	- Hilos (Threads) 
+	- Procesos
+	- Semáforos
+
+- Tkinter
+	- Posicionamiento
+	- Widgets
+	- CSS
 
 #### Avanzado - Semana 3
 
-- Pandas
+- Entornos de desarrollo
+	- Anaconda Navigator
+	- Jupyter Notebook
+	- Spyder IDE
+	- Google Colab
+	- Microsoft Azure Notebooks
 
+- Módulos Científicos
+	- Numpy
+	- Scipy
+	- Sympy
+	- Pandas
+	- Matplotlib
+	
 
+- Introducción a IA
+	- Aprendizaje Supervisado
+		-  	Regresión
+		-   Clasificación
+	- Aprendizaje No Supervisado
+		- Clustering
+	- Aprendizaje por Refuerzo
+		- Ecuación de Bellman
+		- Q-Learning 
+	- ScikitLearn
+	
+- Introducción a Redes Neuronales
+	- Perceptrón
+	- Capas
+	- Función de activación
+	- Optimización
+	- Función de costo
+	- R.N. Convolucionales y Recurrentes
+	- Introducción a TensorFlow
 
-### Fechas límites de entrega 
+- APIs
+	- Google Maps
+		- Direcciones
+		- Rutas
+		- Trazos
+	- The Wheater Channel
+	- IBM Watson
 
-```
-Avanzado: 2020.08.31 11:59 pm
-```
+- ChatBot con Telegram
 
 ### Contacto 
 
