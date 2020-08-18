@@ -49,7 +49,7 @@ La filosofía que rigen las personas que de sean programar en Pythonn están esc
 
 ## Y a todo esto, ¿cómo se instala?
 
-### Windows
+### Windows
 
 https://www.python.org/downloads/windows/. 
 
@@ -233,7 +233,7 @@ pyplot.show()
 
 
 
-![png](output_29_1.png)
+![png](img/output_29_1.png)
 
 
 ## Python es usado para muchísimas otras cosas como: 
@@ -1018,7 +1018,7 @@ Los ciclos nos permiten hacer repeticiones de procesos dentro de un rango que no
 
 Esto es útil para NO hacer cada uno de los pasos si son repetitivos, por lo que haríamos líneas de código innecesarias. (Además, ¡qué flojera!)
 
-### Ciclo for (para cada) ➰
+### Ciclo for (para cada) ➰
 
 Los ciclos for en python funcionan tienen una estructura algo distinta en Python que por ejemplo C o Java. Para poder utilizarlo tendremos que hacer uso de la palabra reservada **in** y luego a decisión,
 
@@ -1121,7 +1121,7 @@ for i in c:
     8
 
 
-** Los ciclos for pueden implementarse con range() o con una colección (lista, tupla o diccionario) para que sea recorrido. No es necesario colocar contadores adicionales.** 
+**Los ciclos for pueden implementarse con range() o con una colección (lista, tupla o diccionario) para que sea recorrido. No es necesario colocar contadores adicionales.** 
 
 
 ```python
@@ -1658,13 +1658,7 @@ next(iterador)
 ```python
 next(iterador)
 ```
-
-
-
-
     'tres'
-
-
 
 ### Yield 🍊
 
@@ -1773,7 +1767,7 @@ La Programación Orientada a Objetos (POO u OOP según sus siglas en inglés) es
 
 La programación Orientada a objetos (POO) es una forma especial de programar, más cercana a como se expresan las cosas en la vida real que otros tipos de programación.
 
-## Definiciones ⭐️
+## Definiciones ⭐️
 
 #### Clase
 Definiciones de las propiedades y comportamiento de un tipo de objeto concreto. La instanciación es la lectura de estas definiciones y la creación de un objeto a partir de ellas.
@@ -2174,8 +2168,6 @@ unaCaja.seguro("123qwe")
     Acceso concedido.
 
 
-### 
-
 
 ```python
 class SerVivo():
@@ -2459,7 +2451,7 @@ print("Este documento pesa en bytes:",os.path.getsize("El lenguaje de programaci
     Este documento pesa en bytes: 123819
 
 
-### Apertura y leída de archivos
+### Manipulación de archivos y su contenido
 
 
 ```python
