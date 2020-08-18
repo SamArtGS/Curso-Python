@@ -5,7 +5,7 @@ miExpresionRegular = re.compile(r'\d+\.\d+\.\d+\.\d+ - - \[1[2-5]\/Dec\/\d+:.{17
 
 #Al abrir el archivo apache.log como 'archivo' has esto:
 
-with open('apache.log') as archivo:
+with open('apache.txt') as archivo:
     contenido = archivo.read()
     print("Número de conexiones del 12-15 Dic POST por arministrador: ",len(miExpresionRegular.findall(contenido)))
     print("\nEjemplos: \n")
