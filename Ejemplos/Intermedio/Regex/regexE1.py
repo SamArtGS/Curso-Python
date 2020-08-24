@@ -7,8 +7,11 @@ miExpresionRegular = re.compile(r'\d+\.\d+\.\d+\.\d+ - - \[1[2-5]\/Dec\/\d+:.{17
 
 with open('apache.txt') as archivo:
     contenido = archivo.read()
-    print("Número de conexiones del 12-15 Dic POST por arministrador: ",len(miExpresionRegular.findall(contenido)))
+    listaQueMeTrae = miExpresionRegular.findall(contenido)
+    print("Número de conexiones del 12-15 Dic POST por arministrador: ",len(listaQueMeTrae))
     print("\nEjemplos: \n")
-    print(miExpresionRegular.findall(contenido)[0]+"\n")
-    print(miExpresionRegular.findall(contenido)[1])
+    print(listaQueMeTrae[0])
+    print(listaQueMeTrae[1])
+    print(listaQueMeTrae[2])
+
 
