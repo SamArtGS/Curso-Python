@@ -123,9 +123,9 @@ Podemos usar Python para encontrar la solución a un sistema de ecuaciones.
 
 Tenemos el siguiente sistema de ecuaciones:
 
-$$ 2x + y - 3z = 7 $$
-$$ 5x - 4y + z = -19  $$
-$$ x - y - 4z = 4 $$
+<img src="https://render.githubusercontent.com/render/math?math=2x+y-3z=7">
+<img src="https://render.githubusercontent.com/render/math?math=5x-4y+z=-19">
+<img src="https://render.githubusercontent.com/render/math?math=x-y-4z=4">
 
 Buscaremos la solución del sistema a través de python con uso de matrices.
 
