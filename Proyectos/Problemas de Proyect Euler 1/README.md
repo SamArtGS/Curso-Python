@@ -13,6 +13,6 @@ En este proyecto se solicitó realizar una serie de ejercicios de [Proyect Euler
 - [Juan Angeles Hernández](https://github.com/J3xLe1988B3lx0x2E6)  
 - [Nancy Vanessa Magín Gómez](https://github.com/VaneMagin)
 - [Omar Armando Olazabal Baquero](https://github.com/Wildfire3212)
-- [Pamela Espinoza de los Monteros](https://github.com/PamelaEsp)
+- [Pamela Espinoza de los Monteros Camarillo](https://github.com/PamelaEsp)
 - [Roberto Carlos Carrichi de la Cruz](https://github.com/RobertoCarrichi)
 - [Uriel Pérez Delgado](https://github.com/urielpd)
