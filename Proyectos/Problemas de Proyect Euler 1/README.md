@@ -14,3 +14,4 @@ En este proyecto se solicitó realizar una serie de ejercicios de [Proyect Euler
 - [Pamela Espinoza de los Monteros Camarillo](https://github.com/PamelaEsp)
 - [Roberto Carlos Carrichi de la Cruz](https://github.com/RobertoCarrichi)
 - [Uriel Pérez Delgado](https://github.com/urielpd)
+
