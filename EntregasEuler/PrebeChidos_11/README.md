@@ -2,6 +2,8 @@
 
 En este proyecto se solicitó realizar una serie de ejercicios de [Proyect Euler](https://projecteuler.net/archives) en dónde las soluciones de los problemas se realizaran a partir lo visto acerca del lenguaje durante el curso.
 
+## 💻 Nombre de equipo: PrebeChidos
+
 ## 🤝🏻 Colaboradores del proyecto  
 - [Brian Jassiel Bautista Pérez](https://github.com/jassiel2911) 
 - [César Yair Calderón Guevara](https://github.com/CesarYCG)  
