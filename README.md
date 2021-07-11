@@ -11,15 +11,6 @@
 Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De parte de todos los colaboradores les agradecemos su preferencia y esperamos que el curso le sea útil en su vida profesional. ❤️
 
 
-### 📅 Fechas y horarios
-
-|    **Nivel**    |            Fecha y hora                |
-|:---------------:|:--------------------------------------:|
-|   **Básico**    | 10 al 14 de Agosto de 2:30 pm a 4:30 pm|
-|  **Intermedio** | 17 al 21 de Agosto de 2:30 pm a 4:30 pm|
-|   **Avanzado**  | 24 al 28 de Agosto de 2:30 pm a 4:30 pm|
-
-
 ### 💡 Temario
 #### Básico - Semana 1
 
@@ -175,35 +166,8 @@ Holas a todos y bienvenidos sean al curso de programación con Python 2020-2. De
 		- Rutas
 		- Trazos
 	- The Wheater Channel
-	- IBM Watson
 
 - ChatBot con Telegram
-
-## 📚Calificaciones 
-
-
-
-| #PB|  Nombre   | Git | Proyecto | Captura Oracle-Python-AWS |Calificación|
-|:--:|:----------: |:----------:|:-------: |:-------:|:-------:|
-|**1**| Galindo Ruiz Abraham				| 2 | 6 | 2 | 10 |
-|**2**| García Miranda Athenas Marlene		| 2 | 6 | 2 | 10 |
-|**3**| García Serrano Héctor Mauricio		| 2 | 6 | 2 | 10 |
-|**4**| Huarte Nolasco Mario				| 2 | 6 | 2 | 10 |
-|**5**| Minero Pineda Erick Rodrigo			| 2 | 6 | 2 | 10 |
-|**6**| Merino Hernández Ailyn				| 2 | 6 | 2 | 10 |
-|**7**| Lira Navarro Juan Arturo			| 2 | 6 | 2 | 10 |
-|**8**| Bautista Pérez Brian Jassiel 		| 2 | 6 | 2 | 10 | 
-|**9**| Calderón Guevara César Yair			| 2 | 6 | 2 | 10 |
-|**10**| Ortega Lujano Conic				| 2 | 6 | 2 | 10 |
-|**11**| Galnares Ruíz Diego				| 2 | 6 | 2 | 10 |
-|**12**| Sanabria Mendoza Isaac Alejandro   | 2 | 6 | 2 | 10 |
-|**13**| Ángeles Hernández Juan 			| 2 | 6 | 2 | 10 |
-|**14**| Vanessa Magín Gómez Nancy			| 2 | 6 | 2 | 10 |
-|**15**| Olazabal Baquero Omar Armando 		| 2 | 6 | 2 | 10 |
-|**16**| Espinoza Camarillo	Pamela 			| 2 | 6 | 2 | 10 |
-|**17**| Carrichi de la Cruz Roberto Carlos | 2 | 6 | 2 | 10 |
-|**18**| Pérez Delgado Uriel				| 2 | 6 | 2 | 10 |
-|**19**| Eyssautier Hernández Michel		| - | - | - | 0 |
 
 
 ### Contacto 
